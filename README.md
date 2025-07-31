@@ -110,9 +110,9 @@ streamlit run medibot.py
 ---
 
 ### 🖼️ Demo
+<img width="536" height="370" alt="image" src="https://github.com/user-attachments/assets/4392fd2e-847d-4e74-bfab-01d8a9b4d06b" />
+<img width="526" height="340" alt="image" src="https://github.com/user-attachments/assets/65e4cee6-6ac9-45ae-8b7a-46c8fa1741de" />
 
-> ![MediBot Screenshot 1](https://github.com/user/screenshots/medibot1.png)
-> ![MediBot Screenshot 2](https://github.com/user/screenshots/medibot2.png)
 
 ---
 
